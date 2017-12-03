@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProyectoSemana2</string>
+    <string name="lblNombreCompleto">Nombre Completo</string>
+    <string name="lblFechaNacimiento">Fecha de Nacimiento</string>
+    <string name="lblTelefono">Teléfono</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblDescripcionContacto">Descripcion del Contacto</string>
+    <string name="lblSiguiente">Siguiente</string>
+    <string name="lblConfirmarDatos">Confirmar Datos</string>
+    <string name="lblEditarDatos">Editar Datos</string>
+    <string name="prmNombreCompleto">prmNombreCompleto</string>
+    <string name="prmFechaNacimiento">prmFechaNacimiento</string>
+    <string name="prmTelefono">prmTelefono</string>
+    <string name="prmEmail">prmEmail</string>
+    <string name="prmDescripcionContacto">prmDescripcionContacto</string>
+</resources>
